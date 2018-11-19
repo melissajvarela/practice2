@@ -1,3 +1,22 @@
-.container-fluid{
-  background-color:black;
+.container-fluid {
+  background-color:grey;
+}
+.row{
+  background-color: black;
+}
+
+nav {
+  height:400px;
+}
+
+header, section{
+  height:50px;
+}
+
+section, aside {
+  height: 200px;
+}
+
+aside, footer{
+  height:200px;
 }
